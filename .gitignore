@@ -1,6 +1,9 @@
 _version.py
-django_crypto_fields
+.env
 .etc
+django_crypto_fields
+etc/*
+venv/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
